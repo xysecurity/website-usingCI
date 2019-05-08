@@ -1,0 +1,8 @@
+Correo 邮件
+Contrasena 密码
+Nombre 名 
+Apellido 姓
+Direccion 地址
+Ciudad 城市
+Estado 状态（国家）
+Codigo Postal 邮政编码

@@ -1,0 +1,253 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width:500px){
+	.nav{
+		width:100%
+	}
+	.body{
+		width:100%
+	}
+	
+	.footer{
+		width:100%
+	}
+	}
+
+
+a:hover{
+	color:#E50C10;
+
+  
+}
+a {
+	display: block;
+	color:#595959;
+    
+	text-decoration:none;/*去掉链接的横线*/
+}
+.body{
+	color:#595959;
+	background:#FFFFFF;
+	font-family:Roboto;
+}
+.main{
+	margin:0 0 10% 0;
+}
+
+.h1{
+	font-family:Roboto;
+	line-height:200%;
+	font-size:40px;
+}
+.nav{
+	font-weight:bold;
+	font-family:Roboto;
+	width: 100%; 
+	float:left;
+	positon:relative;
+	top:50px;
+	
+	
+	background-color: #90C7E3;
+}
+
+.middle{	
+	background-color:#FFD700;
+	padding:5%;
+	margin-bottom:30px;
+}
+
+.footer{
+	font-size:0.7em;
+	font-family:Roboto;
+	text-align:center;
+}
+.registertext{
+	padding:0 20%;
+}
+#wrapper{
+	
+	margin:10% 20%;
+}
+#wrapper1{
+	margin:5% 10%;
+}
+
+li{
+	float:left;
+	padding:5px;
+}
+ul{
+	list-style-type:none;/*去掉小黑点*/
+	margin:0;
+	
+	overflow:visible;/*溢出元素框时修剪内容*/
+}
+li a{
+	display:blcok;
+	
+
+	color:#595959;
+    
+	text-decoration:none;
+}
+li a:hover{
+	color:#FFC300;
+}
+li a.active{
+	color:#FFC300;
+}
+
+.form{
+	background:#D7D7D7;
+}
+
+
+#layer{
+	width:600px;
+	height: 200px;
+	display:none;
+	position:absolute;
+	background: #fff;
+	
+	z-index:999;
+}
+#individualpage{
+	
+	width:600px;
+	height: 600px;
+	display:none;
+	position:absolute;
+	background: #FFF;
+	
+	z-index:999;
+}
+#fundacionlpage{
+	
+	width:600px;
+	height: 650px;
+	display:none;
+	position:absolute;
+	background: #FFF;
+	
+	z-index:999;
+	
+}
+#agentlpage{
+	width:600px;
+	height: 600px;
+	display:none;
+	position:absolute;
+	background: #FFF;
+	
+	z-index:999;
+	
+}
+#price{
+	color:#FFC300;
+	font-family:Roboto;
+	
+}
+
+button{
+	
+	border:none;
+	color:white;
+	text-decoration: none;
+	text-align: center;
+	cursor:pointer;
+	
+	
+	
+}
+.buttonregister{
+	background: #FFC300;
+	font-size:12px;
+	border-radius:40px;
+	padding: 5%;
+	height:40px;
+}
+.button1{
+	background: #FFC300;
+padding:5px 10px 5px 10px; 
+	font-size:15px;
+	border-radius:40px;
+}
+.button2{
+	background:#9E9E9E;
+	padding:5px 10px 5px 10px; 
+	font-size:15px;
+	border-radius:40px;
+		
+}
+.button4{
+	background:#000000;
+	padding:5px 10px 5px 10px; 
+	font-size:15px;
+	border-radius:0px 40px 40px 0; 
+}
+.button3{
+	background: white;
+	width:10px;
+	height:10px;
+	border: none;
+	border-radius:50%;
+}
+.button3:hover{
+	background: #FFD700;
+}
+.button5{
+	background:#9E9E9E;
+	padding:5px 10px 5px 10px; 
+	font-size:15px;
+}
+.button5:hover{
+	background: #FFD700;
+}
+.button6{
+	background:#208418;
+	padding:5px 10px 5px 10px; 
+	font-size:15px;
+	border-radius:40px;
+}
+#cover{
+	background:#000;
+	z-index:100;
+	position:absolute;
+	left: 0px; 
+	top: 0px; 
+	width: 100%; 
+	filter: alpha(opacity=30); 
+	opacity: 0.3; 
+	display:none ; 
+	z-index: 2;
+	height:5000px;
+	
+	
+}
+.row{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+	
+#confirmpage{
+	display:none;
+	width:600px;
+	height: 200px;
+	display:none;
+	position:absolute;
+	background: #fff;
+	
+	z-index:999;
+}
+
+
+	
+
+		
+	
+		.Nombre {
+}
+
+
+

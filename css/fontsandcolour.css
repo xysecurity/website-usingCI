@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+@media only screen and (max-width:500px){
+	.nav{
+		width:100%
+	}
+	.body{
+		width:100%
+	}
+	
+	.footer{
+		width:100%
+	}
+	}
+}
+
+.body{
+	color:#595959;
+	background:#FFFFFF;
+	font-family:Roboto;
+}
+
+
+
+.h1{
+	font-family:Roboto;
+	line-height:200%;
+	font-size:40px;
+}
+.nav{
+
+	font-family:Roboto;	
+	background-color: #90C7E3;
+}
+
+.middle{	
+	background-color:#FFD700;
+}
+
+
+
+
+
+li a{
+	
+	color:#595959;;
+    
+	text-decoration:none;/*去掉链接的横线*/
+}
+li a:hover{
+	color:#FFC300;
+}
+li a.active{
+	color:#FFC300;
+}
+
+
+
